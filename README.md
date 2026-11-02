@@ -1,4 +1,4 @@
-# 👀 ICodKid
+# 👀 Oresti Tushe
 **`Ethical Hacker, (Red Team/Creator)`**
 
 I'm an IT student passionate about coding and cybersecurity. I work with HTML, JavaScript, CSS, and C#, building projects from the ground up and tackling real-world challenges through code. Outside of coding, I live stream on Twitch, where I connect with a community of gamers. My GitHub, ICodKid, is where I share my coding journey and projects as I continue to grow as a developer.
